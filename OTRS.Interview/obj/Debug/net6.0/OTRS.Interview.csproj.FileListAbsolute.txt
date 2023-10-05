@@ -1,0 +1,5 @@
+C:\source\interview\OTRS.Interview\obj\Debug\net6.0\OTRS.Interview.csproj.AssemblyReference.cache
+C:\source\interview\OTRS.Interview\obj\Debug\net6.0\OTRS.Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\interview\OTRS.Interview\obj\Debug\net6.0\OTRS.Interview.AssemblyInfoInputs.cache
+C:\source\interview\OTRS.Interview\obj\Debug\net6.0\OTRS.Interview.AssemblyInfo.cs
+C:\source\interview\OTRS.Interview\obj\Debug\net6.0\OTRS.Interview.csproj.CoreCompileInputs.cache
